@@ -1,4 +1,7 @@
 import socket
 
 class Resolver:
-    pass
+    def __init__(self):
+        self._cache = {}
+
+    
