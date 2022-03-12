@@ -78,3 +78,12 @@ al = rotate_list(al)
 print(al)
 al = rotate_list(al)
 print(al)
+
+aTrace._enabled = False
+print(al)
+al = rotate_list(al)
+print(al)
+al = rotate_list(al)
+print(al)
+al = rotate_list(al)
+print(al)
