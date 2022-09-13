@@ -7,3 +7,6 @@ while x < 11:
     if i % 2 == 1:
        print(i)
     # Line of code.
+
+y = 16
+print(y << 2)
